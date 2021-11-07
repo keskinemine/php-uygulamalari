@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+tr, td{
+    padding: 5px;
+}
+
+td a{
+    text-decoration: none;
+    color: black;
+}
+.sol, .sag , .anasayfa{
+    text-align: center;
+}
+
+.baslik, .satirlar{
+    height: 30px;
+}
+.makalebasligi{
+    display: table-cell;
+    padding-left: 85px;
+}
+.orta{
+    text-align: center;
+}

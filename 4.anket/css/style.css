@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border:0px;
+}
+input[type="radio"]{
+    width: 25px;
+}
+.cevap{
+    width: 275px;
+}
+tr{
+    height: 30px;
+}
+.anket{
+    text-align: right;
+}
+.anket a{
+    text-decoration: none;
+    color: #009900;
+}
+.yuzde{
+    width: 85px;
+}
+.cevap2{
+    width: 215px;
+}
